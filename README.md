@@ -2,4 +2,4 @@
 
 ## Java DAO (Banco de dados)
 
-[BancoDeDados] (https://github.com/leandrobmarinho/POO/InterfaceGrafica)
+[BancoDeDados] (https://github.com/leandrobmarinho/POO/tree/master/InterfaceGrafica)
