@@ -1,0 +1,10 @@
+CREATE DATABASE escola;
+
+-- PostgreSQL
+CREATE TABLE aluno
+(
+  matricula integer NOT NULL,
+  nome character varying(40) NOT NULL,
+  senha character varying(50) NOT NULL,
+  CONSTRAINT pk_matricula PRIMARY KEY (matricula)
+)
